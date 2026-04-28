@@ -1,0 +1,7 @@
+{
+  "name": "edge-app",
+  "version": "1.0.0",
+  "description": "Lightweight serverless web application",
+  "private": true,
+  "license": "MIT"
+}
